@@ -1,0 +1,102 @@
+﻿<themes>
+	<theme name = "1">
+		<title>Тема 1</title>
+		<description>Описание темы 1</description>
+		<test name = "1">
+			<title>Тест 1</title>
+			<description>Описание теста 1</description>
+			<type>1</type>
+			<question name = "1">
+				<text>Текст первого вопроса 1 теста</text>
+				<type>1</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "1">Первый ответ 1 вопроса 1 теста</answer>
+				<answer name = "2">Второй ответ 1 вопроса 1 теста</answer>
+				<corrAnswer name = "3">Третий ответ 1 вопроса 1 теста</corrAnswer>
+				<answer name = "4">Четвертый ответ 1 вопроса 1 теста</answer>
+			</question>
+			<question name = "2">
+				<text>Текст второго вопроса 1 теста</text>
+				<type>2</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "5">Первый ответ 1 вопроса 1 теста</answer>
+				<answer name = "6">Второй ответ 1 вопроса 1 теста</answer>
+				<corrAnswer name = "7">Третий ответ 1 вопроса 1 теста</corrAnswer>
+				<answer name = "8">Четвертый ответ 1 вопроса 1 теста</answer>
+			</question>
+		</test>
+		<test name = "2">
+			<title>Тест 2</title>
+			<description>Описание теста 2</description>
+			<type>2</type>
+			<question name = "3">
+				<text>Текст первого вопроса 2 теста</text>
+				<type>1</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "9">Первый ответ 1 вопроса 2 теста</answer>
+				<answer name = "10">Второй ответ 1 вопроса 2 теста</answer>
+				<corrAnswer name = "11">Третий ответ 1 вопроса 2 теста</corrAnswer>
+				<answer name = "12">Четвертый ответ 1 вопроса 2 теста</answer>
+			</question>
+			<question name = "4">
+				<text>Текст вторго вопроса 2 теста</text>
+				<type>1</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "13">Первый ответ 2 вопроса 2 теста</answer>
+				<answer name = "14">Второй ответ 2 вопроса 2 теста</answer>
+				<corrAnswer name = "15">Третий ответ 2 вопроса 2 теста</corrAnswer>
+				<answer name = "16">Четвертый ответ 2 вопроса 2 теста</answer>
+			</question>
+		</test>
+	</theme>
+	<theme name = "2">
+		<title>Тема 2</title>
+		<description>Описание темы 2</description>
+		<test name = "3">
+			<title>Тест 3</title>
+			<description>Описание теста 3</description>
+			<type>1</type>
+			<question name = "5">
+				<text>Текст первого вопроса 3 теста</text>
+				<type>2</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "17">Первый ответ 1 вопроса 3 теста</answer>
+				<answer name = "18">Второй ответ 1 вопроса 3 теста</answer>
+				<corrAnswer name = "19">Третий ответ 1 вопроса 3 теста</corrAnswer>
+				<answer name = "20">Четвертый ответ 1 вопроса 3 теста</answer>
+			</question>
+			<question name = "6">
+				<text>Текст второго вопроса 3 теста</text>
+				<type>1</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "21">Первый ответ 2 вопроса 3 теста</answer>
+				<answer name = "22">Второй ответ 2 вопроса 3 теста</answer>
+				<corrAnswer name = "23">Третий ответ 2 вопроса 3 теста</corrAnswer>
+				<answer name = "24">Четвертый ответ 2 вопроса 3 теста</answer>
+			</question>
+		</test>
+		<test name = "4">
+			<title>Тест 4</title>
+			<description>Описание теста 4</description>
+			<type>2</type>
+			<question name = "7">
+				<text>Текст первого вопроса 4 теста</text>
+				<type>1</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "25">Первый ответ 1 вопроса 4 теста</answer>
+				<answer name = "26">Второй ответ 1 вопроса 4 теста</answer>
+				<corrAnswer name = "27">Третий ответ 1 вопроса 4 теста</corrAnswer>
+				<answer name = "28">Четвертый ответ 1 вопроса 4 теста</answer>
+			</question>
+			<question name = "8">
+				<text>Текст вторго вопроса 4 теста</text>
+				<type>2</type>
+				<description>Описание выводимое в случае неверного ответа</description>
+				<answer name = "29">Первый ответ 2 вопроса 4 теста</answer>
+				<answer name = "30">Второй ответ 2 вопроса 4 теста</answer>
+				<corrAnswer name = "31">Третий ответ 2 вопроса 4 теста</corrAnswer>
+				<answer name = "32">Четвертый ответ 2 вопроса 4 теста</answer>
+			</question>
+		</test>
+	</theme>
+</themes>

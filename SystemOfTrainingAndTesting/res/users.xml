@@ -1,0 +1,22 @@
+<users>
+	<user name = "1">
+		<login>dmitrytyunkov</login>
+		<password>tyunkov</password>
+		<firstName>Dmitry</firstName>
+		<lastName>Tyunkov</lastName>
+		<patronimic>A</patronimic>
+		<speciality>IVT</speciality>
+		<group>IVTm-151</group>
+		<accessLvl>0</accessLvl>
+	</user>
+	<user name = "2">
+		<login>denistyunkov</login>
+		<password>tyunkov</password>
+		<firstName>Denis</firstName>
+		<lastName>Tyunkov</lastName>
+		<patronimic>A</patronimic>
+		<speciality>KZI</speciality>
+		<group>KZI-131</group>
+		<accessLvl>1</accessLvl>
+	</user>
+</users>
